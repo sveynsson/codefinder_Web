@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#searchQuery {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.results {
+    overflow-y: auto;
+    height: 400px; /* Anpassen nach Bedarf */
+    border: 1px solid #ccc;
+    padding: 10px;
+}

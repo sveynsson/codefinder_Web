@@ -1,0 +1,417 @@
+Code, Name
+721,Richtungsanzeiger
+817,Grundwasserpegel
+887,Relais
+986,Böschung unten Pflaster
+177,Projekt Code 07
+713,Hauptsignal Licht
+429,Tafel
+319,Aufzug
+377,Bergwerk
+726,Verzögerungsanzeiger
+351,Wehr
+780,Geschwindigkeitsafel
+955,Kleingartenanlage
+951,Torf
+320,Bahngebäude Info
+279,Geländer
+580,Rollbockanlage
+300,Gebäudeinfo
+592,Drehscheibenrand
+754,Abdrücksignal Form
+151,GVP Mast
+509,Leitplanke
+101,PS1-Punkt
+904,Baumreihe Nadel 
+987,Böschung oben Pflaster
+723,Geschwindigkeitsanzeiger
+175,Projekt Code 05
+613,Schwellen-Schienen-Wechsel
+822,Schieber
+868,Stromschienentrenner
+854,Laterne
+859,schräger Stützmast/A-Mast
+708,Achszähler
+831,Merksäule Elektrizität
+519,Verkehrsschild Hauptstraße
+942,Friedhof
+745,Ankündigungsbake 744
+765,Nachschieben einstell Ts1-Signal
+959,Hofraum
+432,Fahrkartenautomat
+985,Böschung oben SteinSchutt
+113,Richtungsanschluss
+734,Vorsignaltafel
+952,Steinbruch
+349,Durchlass
+176,Projekt Code 06
+578,Bremsprellbock
+833,Merksäule Fahrleitung
+421,Notrufsäule
+424,Lautsprecher hängend
+803,Schachtsohle
+950,Schilf
+812,Wasserschieber
+381,Kranbahnschienen
+716,Haupt-Vorsignalverbindung Zwerg
+589,Wartungsgrube
+764,Sperrsignal Licht Zwerg
+581,Gleiswaage
+433,sonstiger Automat
+988,schmaler Damm <1m Breite
+121,Marke Schienenaußenkante (SAK)
+157,GVP Wand/Tunnel
+778,LZB Blockzeichen
+133,Text allgemein
+585,Gleissperre ortsbedient rechts
+277,Tür
+947,Hopfenpflanzung
+718,Ersatzsignal
+791,Überwachungssignal exDR
+784,Endscheibe
+722,Richtungsvoranzeiger
+505,Ladebühne
+783,Anfangstafelscheibe Zwerg
+122,Pflock mit Nagel
+345,Auflagerbank
+600,Gleislatte starr
+826,Kabeltopf
+696,Schiebeschranke
+888,Tiefenerder
+982,Böschung unten undeutlich
+153,GVP Stehbolzen / MM Bahnsteig
+117,Lagefestpunkt
+507,Fahrbahnmarkierung
+346,Pfeiler/Stütze
+630,Weicheninfo Zungenanfang
+799,Schaltkontakt BÜ
+993,Schotter
+971,Gewässergrenze
+855,Stahlgittermast
+375,Erdgasförderstelle
+316,Rolltreppe
+990,Querprofil Info
+419,Fahrgastinfo
+180,Projekt Code 10
+353,Brücke Ausleger <1m Breite
+856,Hochspannungsmast
+130,GIS-Objekt vorhanden
+411,Bahntelefon
+828,Einspeisung
+249,Gleisanschluss
+958,Unland
+983,Böschung oben undeutlich
+436,Briefkasten
+707,EOW-Technik
+960,Lagerplatz
+443,Parkscheinautomat
+768,Abfahrsignal
+289,Lärmschutzwand
+503,Rampe Verkehr
+782,Anfangstafelscheibe
+314,Ruine
+590,Kippanlage
+885,Balise aktiv
+962,Moor/Sumpf
+787,GeschwindAnkündSigZwerg
+504,Laderampe
+941,Parkanlage
+510,Leitpfosten
+136,Projektinfo
+599,Lademaß
+155,GVP Boden
+430,Bahnsteig Mobiliar
+781,Geschwindigkeitstafel Zwerg
+344,Flügelmauer
+685,Bake 1streifig links
+949,Heide
+220,Grenzinfo
+502,Bordkante oben hinten
+816,Wassergewinnung
+830,Hochspannungszeichen
+276,Hecke
+371,Kesselanlage stehend
+697,Drehkreuz
+693,Schrankenkasten
+774,Rautentafel
+516,Verkehrsschild 3-eckig
+742,Brandfackeltafel
+271,Zaun
+442,Parkuhr
+212,Grenzpunkt vermarkt
+867,Weichenauflauf
+132,GIS-Objekt löschen
+171,Projekt Code 01
+946,Weingarten
+883,Magnet 1000Hz
+752,Wartesignal Zwerg
+440,Spiegel
+725,Beschleunigungsanzeiger
+762,Sperrsignal Form Zwerg
+420,Feuermelder
+378,Schacht (Bergbau)
+748,Isolierzeichen
+872,Schalthaus
+875,Kabel Merkstein
+348,Tunnel
+740,Haltepunkttafel
+770,Wegübergangstafel
+372,Tanksäule
+973,Gewässersohle
+522,Ampel zweideutig
+863,Stromschienfestpunkt
+862,Stromschienendilatation
+116,Lage-Höhen-FP
+508,Blendschutz
+767,Bremsprobensignal
+418,Uhr
+777,Läutetafel
+614,Führungsschiene
+682,Bake 3streifig rechts
+307,Überdachung
+110,Trigonometrischer Punkt
+125,Messingmarke
+301,Gebäude
+852,Betonmast
+698,Klingel Bahnübergang
+304,Vorbau/Versprung
+906,Mischwald
+681,Bake 3streifig links
+839,Merksäule Gas
+975,Grube/Höhle
+864,Rückleitungsanschluss
+278,Tor
+435,Entwerter
+805,Schacht Auslauf
+579,abklappbarer Prellbock
+972,Gewässerinfo
+834,Merksäule Fernmelde
+729,Endesignal
+123,Farbkreuz
+779,Eckentafel
+575,Bremselement einseitig
+798,Schleife BÜ
+103,PS3-Punkt
+811,Einlaufreihe
+957,Ackerland
+303,Durchgang
+970,Wasserspiegel
+518,Verkehrsschild Vorfahrt
+802,Einstieg eckig
+621,Gleisachse
+806,Lichtschacht
+376,Windmotor
+688,AK Blinklicht Rot
+594,Drehscheibenkranz
+827,Kabelkanal
+845,Leitung oberirdisch
+308,Gebäude unterirdisch
+956,Campingplatz
+843,Merksäule Wasser
+989,schmaler Graben <1m Breite
+884,Magnet GPE
+948,Brachland
+515,Verkehrsschild 4-eckig
+179,Projekt Code 09
+683,Bake 2streifig links
+124,Nagel oder Pinne
+506,Blindenleitsystem
+529,Kilometertafel
+390,Förderband
+687,Andreaskreuz
+731,Vorsignalbake 1streifig
+282,Brüstungsmauer
+312,Schornstein
+318,hoher Laufsteg
+391,Brückenwaage
+611,Gleiswinkel Lot
+795,Isostoß beidseitig
+753,Rangierhalttafel
+350,Düker
+793,Isostoß rechts
+437,Müllbehälter
+717,Vorsichtsignal
+583,Gleissperre fernbedient rechts
+281,freistehende Mauer
+596,Spillanlage liegend
+373,Bohrloch
+690,Schranke Auslegerende
+174,Projekt Code 04
+724,Geschwindigkeitsvoranzeiger
+838,Merksäule Öl
+881,Magnet 500Hz
+995,Gelände
+801,Einstieg rund
+245,Direktionsgrenze
+423,Leuchtfeuer/Leuchtturm
+792,Überwachungssignal exDB
+747,Schneepflug senken
+789,Geschwindigkeitssignal Zwerg
+860,Stromschienenanschluss
+341,Fundament
+814,Hydrant Unterflur
+743,Permissivendtafel
+866,S-Bahn-Kabel
+953,Parkplatz
+741,Schachbretttafel
+622,Körnung Kreuzungsmitte
+119,Hilfshöhenpunkt
+701,Vorsignal Form
+684,Bake 2streifig links
+873,Elektrant
+944,Grünland
+703,Hauptsignal Form
+610,Schienenmitte SO
+786,Geschwindigkeitsankündesignal
+211,Grenzpunkt unvermarkt
+903,Baumreihe Laub
+857,Funkmast
+342,Widerlager
+807,Fallrohr
+517,Verkehrsschild STOP
+306,Dach
+836,Merksäule Fernwärme
+311,Turm oder Esse
+902,Nadelbaum
+526,Straßenkilometerzeichen
+321,Bahngebäude
+134,Hilfspunkt-Linie
+595,Spillanlage stehend
+135,Zwangspunkt
+572,Gummigleisbremse
+733,Vorsignalbake 3streifig
+426,Überwachungskamera hängend
+751,Wartesignal
+425,Lautprecher stehend
+500,Fahrweg Grenze
+178,Projekt Code 08
+514,Verkehrsschild rund
+738,Kreuztafel
+339,Untergurt
+213,Grenzsäule
+755,Abdrücksignal Licht
+790,Fahrleitungssignal
+313,Denkmal
+343,Kammermauer
+439,Fahnenstange
+528,Kilometerstein
+981,Böschung oben
+588,Schmierautomat
+422,Sirene
+691,Schranke
+871,Schaltschrank
+901,Laubbaum
+853,Stahlrohrmast
+728,M-Tafel
+945,Obstplantage
+984,Böschung unten SteinSchutt
+686,Bake 1streifig rechts
+813,Hydrant Unterflur
+732,Vorsignalbake 2streifig
+317,Podest
+446,Pfosten/Rammschiene
+775,Pfeiftafel
+586,Entgleisungsvorrichtung
+749,Grenzzeichen
+441,Poller
+823,Zapfstelle
+380,Kran
+815,Wasserkran
+766,Halt Weiterfahrt Ts 2/3-Signal
+676,Bahnsteig
+797,HET Schalter
+524,Verkehrsschild Haltestelle
+347,Brücke Überbau
+352,Schleuse
+501,Fahrweginfo
+340,Träger
+808,Gully/Einlauf
+730,Haltetafel
+804,Schacht Einlauf
+704,Hauptsignal Form Zwerg
+889,Blitzschutz/Sicherung
+832,Merksäule Bahnstrom
+886,Balise passiv
+445,Halterung
+715,Haupt-Vorsignalverbindung
+744,Üwachsignal Rückfallweiche
+576,Bremselement zweiseitig
+591,Schiebebühne
+414,Öffentliches Telefon
+102,PS2-Punkt
+210,Grenzlinie
+829,Stromschiene
+874,Trafokasten
+521,Ampel dreideutig
+118,Höhenfestpunkt
+809,Minischacht
+954,Baumschule
+315,Treppe
+991,Schwelle
+961,Bahngelände
+980,Böschung unten
+739,Trapeztafel
+709,Streckenanschlag
+374,Bohrturm
+746,Schneepflug heben
+785,Endscheibe Zwerg
+712,Vorsignal Licht Zwerg
+819,Springbrunnen
+173,Projekt Code 03
+994,Planum
+821,Leerrohr
+337,Schotterfang
+761,Sperrsignal Form
+369,Erdölpumpe
+100,PS0-Punkt
+907,Nadelwald
+370,Kesselanlage liegend
+771,Warnpfahltafel
+999,Fotopunkt
+273,Bretterwand
+976,Fels
+593,Drehscheibenmitte
+444,Taxirufsäule
+427,Überwachungskamera stehend
+431,Sitzbank
+869,Rückleitungsabgriff
+305,Balkon/Loggia/Erker
+689,AK Blinklicht RotGelb
+763,Sperrsignal Licht
+112,freier Standpunkt
+858,Ankerfundament
+577,Festprellbock
+861,Stromschienenanfang
+126,Meißelkreuz
+338,Obergurt
+597,Straßenrolleranlage
+302,Nische
+727,Gleiswechselanzeiger
+379,Stollenmund
+714,Hauptsignal Licht Zwerg
+706,LZB-Technik
+172,Projekt Code 02
+940,Nutzungsartengrenze
+428,Anschlagsäule
+908,Gehölz
+309,Pergola
+848,Leitung unterirdisch
+288,Spundwand
+434,Halteschild Fußgänger
+694,Drehschranke Drehpunkt
+796,BÜ Tafel
+283,Stützmauer
+438,Infoschild Bahnsteig
+710,Vorsignalwiederholtafel
+794,Isostoß links
+598,Waschanlage
+851,Holzmast
+574,Hemmschuhauswurf
+582,Gleissperre fernbedient links
+882,Magnet 1000 2000Hz
+876,Trafokasten
+943,Garten 
+711,Vorsignal Licht
+905,Laubwald
+584,Gleissperre ortsbedient links
+788,Geschwindigkeitssignal
