@@ -1,3 +1,13 @@
+// Hilfsfunktion zur Normalisierung der Suchanfrage
+function normalizeSearchString(str) {
+    return str
+        .toLowerCase()
+        .replace(/ä/g, 'ae')
+        .replace(/ö/g, 'oe')
+        .replace(/ü/g, 'ue')
+        .replace(/ß/g, 'ss');
+}
+
 async function loadCSV() {
     let response = await fetch('data.csv');
     let data = await response.text();
@@ -6,17 +16,17 @@ async function loadCSV() {
     let csvData = rows.map(row => {
         let [code, name] = row.split(',');
         return { code: parseInt(code, 10), name };
-    });
+    }).sort((a, b) => a.code - b.code); // Sortierung nach Code
     displayResults(csvData); // Zeige alle Daten beim Laden
     return csvData;
 }
 
 async function searchInCSV() {
-    let query = document.getElementById('searchQuery').value.toLowerCase();
+    let query = normalizeSearchString(document.getElementById('searchQuery').value);
     let csvData = await loadCSV();
-    if (query) { // Führe Suche nur durch, wenn eine Abfrage vorhanden ist
+    if (query) {
         csvData = csvData.filter(row => 
-            row.code.toString().includes(query) || row.name.toLowerCase().includes(query)
+            row.code.toString().includes(query) || normalizeSearchString(row.name).includes(query)
         );
     }
     displayResults(csvData);
@@ -30,14 +40,12 @@ function displayResults(results) {
 // Initial load
 loadCSV();
 
-// Registrierung des Service Workers
+// Registriere den Service Worker
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
         navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
-            // Registrierung erfolgreich
             console.log('ServiceWorker registration successful with scope: ', registration.scope);
         }, function(err) {
-            // Registrierung fehlgeschlagen :(
             console.log('ServiceWorker registration failed: ', err);
         });
     });

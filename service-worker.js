@@ -5,7 +5,10 @@ self.addEventListener('install', function(event) {
                 '/index.html',
                 '/script.js',
                 '/style.css',
-                '/data.csv'
+                '/data.csv',
+                '/manifest.json',
+                '/icon/lowres.webp',
+                '/icon/hd_hi.ico'
             ]);
         })
     );
@@ -14,7 +17,7 @@ self.addEventListener('install', function(event) {
 self.addEventListener('fetch', function(event) {
     event.respondWith(
         caches.match(event.request).then(function(response) {
-        return response || fetch(event.request);
-    })
+            return response || fetch(event.request);
+        })
     );
 });
