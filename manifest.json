@@ -1,21 +1,22 @@
 {
-    "name": "Codefinder Web",
-    "short_name": "PWA",
-    "start_url": "./",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
-    "icons": [
-      {
-        "src": "icon/lowres.webp",
-        "sizes": "48x48",
-        "type": "image/webp"
-      },
-      {
-        "src": "icon/hd_hi.ico",
-        "sizes": "72x72 96x96 128x128 256x256",
-        "type": "image/x-icon"
-      }
-    ]
-  }
-  
+  "name": "Codefinder Web",
+  "short_name": "Codefinder",
+  "description": "Proof-of-Concept für den Codefinder",
+  "scope": "/codefinder_Web/",
+  "start_url": "/codefinder_Web/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/codefinder_Web/icon/lowres.webp",
+      "sizes": "48x48",
+      "type": "image/webp"
+    },
+    {
+      "src": "/codefinder_Web/icon/hd_hi.ico",
+      "sizes": "72x72 96x96 128x128 256x256",
+      "type": "image/x-icon"
+    }
+  ]
+}
