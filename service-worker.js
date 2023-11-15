@@ -9,14 +9,14 @@ var VERSION = 'version_01';
 
 // Dateien, die offline verfügbar gemacht werden sollen
 var URLS = [
-  `${GHPATH}/`,
-  `${GHPATH}/index.html`,
-  `${GHPATH}/script.js`,
-  `${GHPATH}/style.css`,
-  `${GHPATH}/data.csv`,
-  `${GHPATH}/manifest.json`,
-  `${GHPATH}/icon/lowres.webp`,
-  `${GHPATH}/icon/hd_hi.ico`
+  `/`,
+  `/index.html`,
+  `/script.js`,
+  `/style.css`,
+  `/data.csv`,
+  `/manifest.json`,
+  `/icon/lowres.webp`,
+  `/icon/hd_hi.ico`
 ]
 
 // Installiere den Service Worker und cache alle App-Assets
