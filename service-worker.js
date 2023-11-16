@@ -1,15 +1,14 @@
 var GHPATH = '/codefinder_Web';
 var APP_PREFIX = 'codefinder_';
 var VERSION = 'version_01';
+
 var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
   `${GHPATH}/script.js`,
   `${GHPATH}/style.css`,
   `${GHPATH}/data.csv`,
-  `${GHPATH}/manifest.json`,
-  `${GHPATH}/icon/lowres.webp`,
-  `${GHPATH}/icon/hd_hi.ico`
+  `${GHPATH}/manifest.json`
 ]
 
 self.addEventListener('install', function (event) {
